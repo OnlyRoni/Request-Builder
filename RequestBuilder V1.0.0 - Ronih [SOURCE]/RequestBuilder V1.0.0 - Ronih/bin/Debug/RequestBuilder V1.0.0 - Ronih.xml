@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RequestBuilder V1.0.0 - Ronih
+</name>
+</assembly>
+<members>
+<member name="T:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources.Apostraphae">
+<summary>
+  Looks up a localized string similar to &quot;.
+</summary>
+</member>
+<member name="P:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources.Apostraphae1">
+<summary>
+  Looks up a localized string similar to &quot;&quot;.
+</summary>
+</member>
+<member name="P:RequestBuilder_V1._0._0___Ronih.My.Resources.Resources.Apostraphae2">
+<summary>
+  Looks up a localized string similar to \&quot;.
+</summary>
+</member>
+</members>
+</doc>
